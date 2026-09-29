@@ -1,0 +1,18 @@
+﻿  Doctor.cpp
+C:\Users\shaki\Desktop\1 курс\OOP\Doctor.cpp(13,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Employee.cpp
+  Hospital.cpp
+C:\Users\shaki\Desktop\1 курс\OOP\Hospital.cpp(25,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shaki\Desktop\1 курс\OOP\Hospital.cpp(30,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shaki\Desktop\1 курс\OOP\Hospital.cpp(35,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  MaitenanceRoom.cpp
+C:\Users\shaki\Desktop\1 курс\OOP\MaitenanceRoom.cpp(34,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MaitenanceWorker.cpp
+  OperationRoom.cpp
+C:\Users\shaki\Desktop\1 курс\OOP\OperationRoom.cpp(28,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Patient.cpp
+  Person.cpp
+  Room.cpp
+  Generating Code...
+  OOP.vcxproj -> C:\Users\shaki\Desktop\1 курс\OOP\x64\Debug\OOP.exe
